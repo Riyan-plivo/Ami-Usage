@@ -12,6 +12,9 @@ Steps to Execute :
    Execute the script. It will generate a well-formatted output file in `.csv` format.
 5. Enjoy and happy Coding 
 
+
+
+```
          _   _
  _ __   | | (_) __   __   ___
 | '_ \  | | | | \ \ / /  / _ \
@@ -19,3 +22,4 @@ Steps to Execute :
 | .__/  |_| |_|   \_/    \___/
 |_|
 
+```
